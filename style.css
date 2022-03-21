@@ -1,0 +1,45 @@
+body{
+  background-color: #62ccff;
+  text-align: center;
+  color: white;
+
+}
+header{
+  background-color:#3c3c3c;
+  height: 10rem;
+  border-radius: 1rem;
+  color: white;
+  
+}
+
+section{background-color: white;
+  margin-top: 2rem;
+  height: 30rem;
+  border-radius: 2rem;
+  margin-left: 20rem;
+  margin-right: 20rem;
+  color: black;
+}
+h1{
+  font: bold 2rem arial, sans-serif
+}
+
+h2{
+  font: bold 1rem arial, sans-serif;
+}
+
+p{
+  font: normal 0.8rem arial, sans-serif
+}
+
+i{
+  color: aliceblue;
+}
+
+
+footer{ background-color:#3c3c3c;
+        margin-top: 2rem;
+        height: 10rem;
+        border-radius: 1rem;
+        color: white;
+}
